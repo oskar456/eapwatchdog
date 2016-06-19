@@ -13,7 +13,7 @@ options than server name are optional, below is the default:
     config eapwatchdog 'eapwatchdog'
         option server   '127.0.0.1'
         option disabled '0'
-        option secret   'mysectet'
+        option secret   'mysecret'
         option timeout  '3'
         option identity 'eduroom-status'
         option password 'nonexistent123'
